@@ -42,3 +42,5 @@ https://drive.google.com/open?id=1MzCn77LxilevsqaCCaRMESF63wTxnLPr
 <h2>final year projects for computer science</h2>
 <h2>mini projects for computer science students</h2>
 <h2>final year project ideas computer science</h2>
+<h2>Hospital Mangement system </h2>
+
